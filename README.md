@@ -3,13 +3,13 @@ Developed an interactive Retail Sales Dashboard in Power BI to monitor and analy
 
 The dashboard includes:
 
-Total Sales Analysis
-Profit Margin Tracking
-Region-wise Performance Analysis
-Category and Sub-category Insights
-State-wise Sales Distribution
-Monthly Sales Trend Analysis
-Interactive Filters and Slicers
+Total Sales Analysis,
+Profit Margin Tracking,
+Region-wise Performance Analysis,
+Category and Sub-category Insights,
+State-wise Sales Distribution,
+Monthly Sales Trend Analysis,
+Interactive Filters and Slicers.
 
 The project helps businesses identify top-performing regions, profitable product categories, and seasonal sales patterns to improve strategic business decisions.
 
@@ -21,19 +21,19 @@ Telangana and Tamil Nadu were among the top-performing states in terms of sales.
 Laptop and Phone sub-categories contributed the highest profits.
 
 # Tools & Technologies Used
-Microsoft Power BI
-Excel / CSV Dataset
-DAX (Data Analysis Expressions)
-Power Query
-Data Modeling
-Interactive Visualizations
+Microsoft Power BI,
+Excel / CSV Dataset,
+DAX (Data Analysis Expressions),
+Power Query,
+Data Modeling,
+Interactive Visualizations.
 
 # Dashboard Features
-KPI Cards
-Bar Charts
-Pie Charts
-Regional Analysis
-Monthly Trend Analysis
-Profitability Analysis
-Dynamic Slicers and Filters
-State-wise Performance Tracking
+KPI Cards,
+Bar Charts,
+Pie Charts,
+Regional Analysis,
+Monthly Trend Analysis,
+Profitability Analysis,
+Dynamic Slicers and Filters,
+State-wise Performance Tracking.
